@@ -21,3 +21,8 @@ You can learn how to create a Service here: https://apple.stackexchange.com/ques
 - Save all as an Action (give it a meaningful name)
 
 Now you should see the Action in the Services menu in any application menu.
+
+## thanks
+
+To encode json, this script uses https://github.com/mgax/applescript-json   
+It might actually be easier to use Javascript now...
