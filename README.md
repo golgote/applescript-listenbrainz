@@ -7,7 +7,7 @@ This action marks the current track as _loved_ and add it to your library. Then 
 
 ## how to install
 
-You can learn how to create a Service here: https://apple.stackexchange.com/questions/100642/how-to-make-an-existing-applescript-file-to-work-as-a-service
+You can learn how to create a Service here: https://apple.stackexchange.com/questions/100642/how-to-make-an-existing-applescript-file-to-work-as-a-service (follow steps 1-3 to get started)
 
 - Open the Automator app
 - Create an Action
